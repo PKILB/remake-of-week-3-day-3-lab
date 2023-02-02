@@ -1,0 +1,10 @@
+/* BASIC STYLES HERE */
+.bg-store {
+    background-size: cover;
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/9112b576009313.5c5ca8e8c45c3.jpg);
+}
+
+.navbar-color {
+    background-color: #9e38ac;
+    color: white;
+}
