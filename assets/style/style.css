@@ -21,3 +21,13 @@
     color: white;
     border: 1px solid white;
 }
+
+.img-size {
+    height:fit-content;
+    width: fit-content;
+    color: white;
+}
+
+.card-body {
+    background-color: #4084bb;
+}
