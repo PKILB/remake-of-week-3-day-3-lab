@@ -8,3 +8,16 @@
     background-color: #9e38ac;
     color: white;
 }
+
+.btn-color {
+    background-color:   #4084bbcc;
+    color: white;
+    border: 1px solid white;
+}
+
+
+.mage-btn-color {
+    background-color: #202025;
+    color: white;
+    border: 1px solid white;
+}
